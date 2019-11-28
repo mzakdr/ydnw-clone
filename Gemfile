@@ -48,7 +48,7 @@ gem 'google-api-client'
 
 gem 'rest-client'
 
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '~> 4.3.1'
 
 gem 'jquery-rails'
 
